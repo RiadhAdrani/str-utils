@@ -2,4 +2,4 @@
 
 Javascript string utilities.
 
-Check documentation [`here`](https://riadhadrani.github.io/utility-js/string.html)
+Check documentation [`here`](https://riadhadrani.github.io/utils/string.html)
